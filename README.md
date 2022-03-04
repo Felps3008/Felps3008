@@ -1,0 +1,4 @@
+- 👋 Ola, sou o Felipe Lima Bezerra
+- 👀 Estou interessado em trabalhar na area de TI
+- 🌱 Estou cursando Ciencias da Computação
+-  📫 Como chegar até mim: felipe.lima30082003@outlook.com
